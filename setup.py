@@ -28,6 +28,7 @@ setup(
     setup_requires=['setuptools_hg'],
     package_dir={'cjktools_data': 'data'},
     packages=['cjktools_data'],
+    include_package_data=True,
 )
 
 # vim: ts=4 sw=4 sts=4 et tw=78:
