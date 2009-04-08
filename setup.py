@@ -22,6 +22,7 @@ setup(
     author_email='lljy@csse.unimelb.edu.au',
     version=VERSION,
     url='http://bitbucket.org/lars512/cjktools-data/',
+    download_url='http://files.gakusha.info/index.html',
     description='A collection of Japanese data files from the EDRDG.',
     long_description=\
 'This package is a data bundle of common and popular data files compiled by the EDRDG, including EDICT, KANJIDIC and several others.',
