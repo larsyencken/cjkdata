@@ -4,3 +4,4 @@ __version__.py
 dist
 build
 *.egg
+.DS_Store
