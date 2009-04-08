@@ -7,5 +7,6 @@
 #  Copyright 2009 Lars Yencken. All rights reserved.
 #
 
-# vim: ts=4 sw=4 sts=4 et tw=78:
+import pkg_resources
 
+# vim: ts=4 sw=4 sts=4 et tw=78:
