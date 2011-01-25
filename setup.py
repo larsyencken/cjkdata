@@ -19,9 +19,9 @@ f.close()
 setup(
     name='cjktools-data',
     author='Lars Yencken',
-    author_email='lljy@csse.unimelb.edu.au',
+    author_email='lars@yencken.org',
     version=VERSION,
-    url='http://bitbucket.org/lars512/cjktools-data/',
+    url='http://bitbucket.org/larsyencken/cjktools-data/',
     download_url='http://files.gakusha.info/index.html',
     description='A collection of Japanese data files from the EDRDG.',
     long_description=\
