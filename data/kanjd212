@@ -1,4 +1,4 @@
-# KANJD212 JIS X 0212 Kanji Information File/See the kanjidic_doc.html file for full details/Copyright Electronic Dictionary Research & Development Group - 2006/2010-07-29/
+# KANJD212 JIS X 0212 Kanji Information File/See the kanjidic_doc.html file for full details/Copyright Electronic Dictionary Research & Development Group - 2006/2011-07-03/
 丂 3021 U4e02 B1 S2 MN3 P4-2-1 Ykao3 Wgyo コウ さまた.げられる {obstruction of breath (qi) as it seeks release} {variant of other characters} 
 丄 3022 U4e04 B1 S2 XJ03e65 MN7 P4-2-2 Yshang4 Yshang3 Wsang ジョウ ショウ うえ うわ- かみ あ.げる あ.がる あ.がり のぼ.る のぼ.せる のぼ.す よ.す {above} 
 丅 3023 U4e05 B1 S2 XJ0323c MN8 P4-2-1 Yxia4 Wha カ ゲ した しも もと さ.げる さ.がる くだ.る くだ.す くだ.さる お.ろす お.りる {under} {underneath} {below} {down} {inferior} {bring down} 
@@ -417,7 +417,7 @@
 厔 3448 U5394 B27 S8 MN2933 P3-2-6 Yzhi4 Wjil シツ シチ ささ.えられる と.まる {stop} {hinder} {place near water} 
 厙 3449 U5399 B27 S9 MN2948 P3-2-7 Yshe4 シャ {surname} 
 厝 344A U539d B27 S10 MN2961 P3-2-8 Ycuo4 Wjo サク ソ セキ ジャク といし ま.じる おく {cut} {engrave} {gravest} 
-厡 344B U53a1 B27 S11 XJ03836 MN2982 P3-2-9 Yyuan2 ゲン はら もと もと‐づく たず.ねる ゆる.す もと.より T1 おか もと はじめ {meadow} {original} {primitive} {field} {plain} {prairie} {tundra} {wilderness} 
+厡 344B U53a1 B27 S11 XJ03836 MN2982 P3-2-9 Yyuan2 ゲン はら もと たず.ねる ゆる.す もと.より T1 おか はじめ {meadow} {original} {primitive} {field} {plain} {prairie} {tundra} {wilderness} 
 厤 344C U53a4 B27 S12 MN2991 P3-2-10 Yli4 Wryeog レキ リャク おさ.める {to calculate} {the calendar} 
 厪 344D U53aa B27 S13 MN3007 P3-2-11 Yqin2 Yjin3 Wgeun キン ゴン こや {hut} {careful} 
 厫 344E U53ab B27 S13 MN3008 P3-2-11 Yao2 ゴウ くら {granary} 
@@ -5281,7 +5281,7 @@
 顖 6830 U9856 B181 S19 XJ13675 MN43610 P1-10-9 Yxin4 Wsin シン シ ひよめき {top of the head} {skull} 
 顗 6831 U9857 B181 S19 MN43614 P1-10-9 Yyi3 ギ ゲ ガイ うやうや.しい {quiet} 
 顙 6832 U9859 B181 S19 MN43624 P1-10-9 Ysang3 Wsang ソウ ひたい {the forehead} {to kowtow} 
-顚 6833 U985a B181 S19 XJ0453f V6651 MN43628 P1-10-9 Ydian1 Wjeon テン いただ.き たお.れる {top} {peak} {summit} {upset} 
+顚 6833 U985a B181 G9 S19 XJ0453f V6651 MN43628 P1-10-9 Ydian1 Wjeon テン いただ.き たお.れる {top} {peak} {summit} {upset} 
 顢 6834 U9862 B181 S20 MN43660 P1-11-9 Yman2 Yman1 バン マン おおきなかお {dawdling} {thoughtless} {careless} 
 顣 6835 U9863 B181 S20 MN43664 P1-11-9 Yqi1 シュク セキ シャク まゆをひそ.める {frown} 
 顥 6836 U9865 B181 S21 N5142 V6654 MN43682 P1-12-9 I9a12.1 Yhao4 Who コウ しろ.い {luminous} {clarity} {white} {hoary} 
