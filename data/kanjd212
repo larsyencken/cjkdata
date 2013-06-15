@@ -1,4 +1,4 @@
-# KANJD212 JIS X 0212 Kanji Information File/See the kanjidic_doc.html file for full details/Copyright Electronic Dictionary Research & Development Group - 2006/2011-07-03/
+# KANJD212 JIS X 0212 Kanji Information File/See the kanjidic_doc.html file for full details/Copyright Electronic Dictionary Research & Development Group - 2013/2013-06-14/
 丂 3021 U4e02 B1 S2 MN3 P4-2-1 Ykao3 Wgyo コウ さまた.げられる {obstruction of breath (qi) as it seeks release} {variant of other characters} 
 丄 3022 U4e04 B1 S2 XJ03e65 MN7 P4-2-2 Yshang4 Yshang3 Wsang ジョウ ショウ うえ うわ- かみ あ.げる あ.がる あ.がり のぼ.る のぼ.せる のぼ.す よ.す {above} 
 丅 3023 U4e05 B1 S2 XJ0323c MN8 P4-2-1 Yxia4 Wha カ ゲ した しも もと さ.げる さ.がる くだ.る くだ.す くだ.さる お.ろす お.りる {under} {underneath} {below} {down} {inferior} {bring down} 
@@ -770,7 +770,7 @@
 塐 3831 U5850 B32 S13 XJ0413a MN5327 P1-3-10 Ysu4 Wso ソ でく {model in clay} {sculpt} {plastics} 
 塕 3832 U5855 B32 S13 MN5333 P1-3-10 Yweng3 オウ オ ちり {gust of wind} 
 塟 3833 U585f B32 S13 XJ04172 MN5350 P2-10-3 Yzang4 ソウ ほうむ.る 
-塡 3834 U5861 B32 S13 XJ04536 V1071 MN5355 P1-3-10 I3b10.5 Ytian2 Wjeon Wjin テン チン はま.る うず.める は.める ふさ.ぐ {fill in} {fill up} {make good} 
+塡 3834 U5861 B32 G8 S13 XJ04536 V1071 MN5355 P1-3-10 I3b10.5 Ytian2 Wjeon Wjin テン チン はま.る うず.める は.める ふさ.ぐ {fill in} {fill up} {make good} 
 塤 3835 U5864 B32 S13 XJ13854 MN5360 P1-3-10 Yxun1 Yxuan1 Whun ケン クン つちぶえ はち わん {instrument} 
 塧 3836 U5867 B32 S13 MN5380 P1-3-10 Yai4 アイ エ けわ.しい 
 塨 3837 U5868 B32 S13 MN5381 P1-3-10 Ygong1 キョウ 
@@ -1599,7 +1599,7 @@
 撿 407E U64bf B64 S16 N2011 V2292 MN12779 P1-3-13 I3c13.4 Yjian3 Wgeom レン ケン こまね.く {to pick up} {inspect} {check} {consider} 
 擄 4121 U64c4 B64 S16 XJ04e3a MN12787 P1-3-13 Ylu3 Wro リョ ロ とりこ {capture} {seize} 
 擉 4122 U64c9 B64 S16 MN12799 P1-3-13 Ychuo4 Wchag サク タク ショク ゾク さ.す {to pierce} {to break through} 
-擊 4123 U64ca B64 G9 S17 XJ03762 V2287 H2900 MN12800 P2-13-4 Yji2 Yji1 Wgyeog ゲキ う.つ {strike} {hit} {beat} {attack} {fight} 
+擊 4123 U64ca B64 G10 S17 XJ03762 V2287 H2900 MN12800 P2-13-4 Yji2 Yji1 Wgyeog ゲキ う.つ {strike} {hit} {beat} {attack} {fight} 
 擋 4124 U64cb B64 S16 MN12802 P1-3-13 Ydang3 Ydang4 トウ さ.ける {obstruct} {impede} {stop} {resist} 
 擌 4125 U64cc B64 S16 MN12803 P1-3-13 Yse4 サク チャク もちざお 
 擎 4126 U64ce B64 S17 MN12808 P2-13-4 Yqing2 Wgyeong ケイ ギョウ ささ.げる {lift up} {hold up} {support} 
@@ -2089,7 +2089,7 @@
 毃 4634 U6bc3 B79 S14 MN16665 P1-10-4 Yque4 カク キョウ たた.く 
 毄 4635 U6bc4 B79 S14 MN16668 P1-10-4 Yji1 Wgyeog ケキ キュク ケイ ギキ あ.たる 
 毉 4636 U6bc9 B79 S18 MN16701 P1-14-4 Yyi1 イ エイ 
-毌 4637 U6bcc B80 S4 H3447 MN16722 P4-4-1 I0a4.45 Yguan4 カン つらぬ.く T2 はは なかれ {mother radical variant (no.80)} 
+毌 4637 U6bcc B80 S4 XJ03453 H3447 MN16722 P4-4-1 I0a4.45 Yguan4 カン つらぬ.く T2 はは なかれ {pierce} {penetrate} {brace} 
 毖 4638 U6bd6 B81 S9 MN16750 P2-4-5 Ybi4 Wbi ヒ つつし.む {guard against} {take care} {caution} 
 毚 4639 U6bda B81 S17 MN16767 P2-2-15 Ychan2 Wcham サン ゼン うさぎ {cunning} {greedy} {crafty} 
 毡 463A U6be1 B82 S9 XJ05d61 MN16801 P1-4-5 Yzhan1 セン {felt} {rug} {carpet} 
@@ -2811,7 +2811,7 @@
 瘞 4D74 U761e B104 S15 MN22395 P3-5-10 Yyi4 エイ うず.める {bury} {inter} 
 瘣 4D75 U7623 B104 S15 MN22407 P3-5-10 Ylei3 カイ ライ や.む 
 瘥 4D76 U7625 B104 S15 MN22412 P3-5-10 Ychai4 Ycuo2 サ シャ サイ い.える {to recover from any disease} {an epidemic} 
-瘦 4D77 U7626 B104 G9 S15 XJ04169 XN3070 N3069 V3832 MN22415 P3-5-10 Yshou4 Wsu ソウ チュウ シュウ チュ やせ.る {thin} {emaciated} {lean} {meager} 
+瘦 4D77 U7626 B104 G10 S15 XJ04169 XN3070 N3069 V3832 MN22415 P3-5-10 Yshou4 Wsu ソウ チュウ シュウ チュ やせ.る {thin} {emaciated} {lean} {meager} 
 瘩 4D78 U7629 B104 S15 MN22437 P3-5-10 Yda2 トウ はれもの {pimples} 
 瘭 4D79 U762d B104 S16 N3072 V3835 MN22440 P3-5-11 I5i11.2 Ybiao1 ヒョウ はれもの {whitlow} 
 瘲 4D7A U7632 B104 S16 MN22451 P3-5-11 Yzong4 ショウ シュ ひきつ.け {spasms or convulsions in young children} {caused by indigestion} 
@@ -4712,7 +4712,7 @@
 郟 622B U90df B163 S10 MN39433 P1-7-3 Yjia2 Wgyeob コウ キョウ {county in Henan province} {surname} 
 郥 622C U90e5 B163 S10 MN39442 P1-7-3 Ybei4 ハイ 
 郒 622D U90d2 B163 S14 XJ04f3a MN0 P1-7-7 Ylang2 Ylang4 ロウ リョウ おとこ 
-郶 622E U90f6 B163 S15 XJ04974 MN39461 P1-8-7 Ybu4 ブ -ベ 
+郶 622E U90f6 B163 S15 XJ04974 MN39461 P1-8-7 Ybu4 ブ ベ 
 郫 622F U90eb B163 S11 MN39470 P1-8-3 Ypi2 Wbi ヒ ハイ 
 郯 6230 U90ef B163 S11 MN39476 P1-8-3 Ytan2 Wdam タン {name of a small ancient principality which was situated in what is now part of Shantung and Kiangsu} 
 郰 6231 U90f0 B163 S11 MN39477 P1-8-3 Yzou1 ショウ シュウ シュ サン {birthplace of Confucius} {place in Shantong} 
@@ -5266,7 +5266,7 @@
 頫 6821 U982b B181 S15 MN43463 P1-6-9 Yfu3 Wbu フ バン マン うつむ.く {bow} {nod} {condescend} 
 頮 6822 U982e B181 S16 XJ16738 MN43491 P1-7-9 Yhui4 Whoe カイ ケ かおをあら.う {wash} 
 頯 6823 U982f B181 S16 MN43492 P1-7-9 Ykui2 カイ キュウ グ ほおぼね {cheekbone} 
-頰 6824 U9830 B181 G9 S16 XJ04b4b V6637 MN43496 P1-7-9 Yjia2 Whyeob キョウ ほお ほほ {cheeks} {jaw} 
+頰 6824 U9830 B181 G8 S16 XJ04b4b V6637 MN43496 P1-7-9 Yjia2 Whyeob キョウ ほお ほほ {cheeks} {jaw} 
 頲 6825 U9832 B181 S16 MN43504 P1-7-9 Yting3 テイ チョウ {straight} 
 頳 6826 U9833 B181 S16 MN43506 P1-7-9 Ycheng1 テイ チョウ あか.い {red} 
 頵 6827 U9835 B181 S16 MN43510 P1-7-9 Yjun1 イン キン おお.きい 
