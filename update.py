@@ -15,12 +15,12 @@ from cStringIO import StringIO
 from consoleLog import default as _log
 
 DICTIONARIES = {
-    'data/dict/je_edict': 'http://ftp.monash.edu.au/pub/nihongo/edict.gz',
-    'data/dict/je_enamdict': 'http://ftp.monash.edu.au/pub/nihongo/enamdict.gz',  # nopep8
-    'data/dict/je_compdic': 'http://ftp.monash.edu.au/pub/nihongo/compdic.gz',
-    'data/kanjidic': 'http://ftp.monash.edu.au/pub/nihongo/kanjidic.gz',
-    'data/kanjd212': 'http://ftp.monash.edu.au/pub/nihongo/kanjd212.gz',
-    'data/radkfile': 'http://ftp.monash.edu.au/pub/nihongo/radkfile.gz',
+    'cjkdata/dict/je_edict': 'http://ftp.monash.edu.au/pub/nihongo/edict.gz',
+    'cjkdata/dict/je_enamdict': 'http://ftp.monash.edu.au/pub/nihongo/enamdict.gz',  # nopep8
+    'cjkdata/dict/je_compdic': 'http://ftp.monash.edu.au/pub/nihongo/compdic.gz',  # nopep8
+    'cjkdata/kanjidic': 'http://ftp.monash.edu.au/pub/nihongo/kanjidic.gz',
+    'cjkdata/kanjd212': 'http://ftp.monash.edu.au/pub/nihongo/kanjd212.gz',
+    'cjkdata/radkfile': 'http://ftp.monash.edu.au/pub/nihongo/radkfile.gz',
 }
 
 
